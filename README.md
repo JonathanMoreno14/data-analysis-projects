@@ -3,6 +3,9 @@
 
 ## Excel 
 
+ - Pizza Delivery Optimized Dashboard
+
+ - Bike Sales
 
 
 ## SQL - PostgreSQL
