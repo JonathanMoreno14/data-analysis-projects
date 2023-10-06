@@ -3,7 +3,7 @@
 
 ## Excel 
 
- - Pizza Delivery Optimized Dashboard
+ - [Pizza Delivery Optimized Dashboard](https://github.com/JonathanMoreno14/data-analysis-projects/tree/main/Excel)
 
  - Bike Sales
 
