@@ -16,7 +16,7 @@
 
 ### Shopify App Analysis
 
- - [Exploratory Data Analysis (EDA)](URL)
+ - [Exploratory Data Analysis (EDA)](https://github.com/JonathanMoreno14/data-analysis-projects/tree/main/SQL/Exploratory%20Data%20Analysis%20(EDA))
 
 
 ## Tableau
