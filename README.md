@@ -5,7 +5,7 @@
 
  - [Pizza Delivery Optimized Dashboard](https://github.com/JonathanMoreno14/data-analysis-projects/tree/main/Excel)
 
- - Bike Sales
+ - [Bike Sales Dashboard](https://github.com/JonathanMoreno14/data-analysis-projects/tree/main/Excel/Dashboards/Bike%20Sales)
 
 
 ## SQL - PostgreSQL
