@@ -1,4 +1,4 @@
 # Bike Sales Dashboard
 
 
-![Screen Shot 2023-10-06 at 4 04 14 PM](https://github.com/JonathanMoreno14/data-analysis-projects/assets/11635523/c508c77c-8bb2-4511-ace9-9469347ab8c6)
+**[Bike Sales Dashboard](https://onedrive.live.com/embed?resid=B8FC736B95A11294%21351&authkey=%21AAd83yZEcBbs-0E&em=2&wdHideGridlines=True&wdHideSheetTabs=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True">)**
