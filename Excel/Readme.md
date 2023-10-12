@@ -3,6 +3,10 @@
 
 **[Dominos Delivery Dashboard](https://onedrive.live.com/embed?resid=B8FC736B95A11294%21352&authkey=%21AE2JvbGCOFOXoOw&em=2&wdHideGridlines=True&wdHideSheetTabs=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True%22%3E)**
 
+![Dominos Delivery Dashboard](https://github.com/JonathanMoreno14/data-analysis-projects/assets/11635523/57408119-24c0-4fe6-a90f-4e3a23c3d58b)
+
+
+
 ## Introduction:
 
 In 2021, I worked as a Dominos delivery driver. While working there, I started keeping track of time; this included the day, tips earned, month, and date. I started tracking my time because I wanted to be more productive and make more tips. In addition, I tried to limit my gas usage and earn more tips while on my shift.
