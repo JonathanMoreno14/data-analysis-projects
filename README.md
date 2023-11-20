@@ -27,3 +27,9 @@
 ### Additional Projects
 
 - [AirBnB Project Dashboard](https://public.tableau.com/views/AirBnBProject_16961146822710/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+## Python
+
+### Data Cleaning & EDA
+
+
